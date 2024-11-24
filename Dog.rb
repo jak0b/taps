@@ -2,7 +2,7 @@ class Dog < Formula
   desc "Command-line DNS client"
   homepage "https://github.com/jak0b/dog"
   url "https://github.com/jak0b/dog/archive/refs/tags/orignial-v0.1.0.tar.gz"
-  sha256 "82387d38727bac7fcdb080970e84b36de80bfe7923ce83f993a77d9ac7847858"
+  sha256 "210ea954af6c8791af5035b630b25c56ae8283851b7cd74db5943770fbd76f42"
   license "EUPL-1.2"
   head "https://github.com/jak0b/dog.git", branch: "master"
 
